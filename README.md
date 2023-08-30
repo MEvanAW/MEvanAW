@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Evan Anindya Wahyuaji</h1>
-<h3 align="center">An Android and Web Developer from Indonesia</h3>
+<h3 align="center">A Web and Android Developer from Indonesia</h3>
 
 <p align="center">📫 How to reach me: <a href="mailto:m.evan.aw@gmail.com", target="_blank">m.evan.aw@gmail.com</a></p>
 
